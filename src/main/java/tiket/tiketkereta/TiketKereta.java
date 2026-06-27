@@ -23,7 +23,7 @@ public class TiketKereta {
         Saldo saldo;
         boolean isAccessMainMenu = true;
         Tiket selectedTiket=null;
-        Utility.initializeTiket();
+        Utility.initializeTiket()
            
         while (isAccessMainMenu){
             try {
