@@ -31,6 +31,7 @@ public class TiketKereta {
                 System.out.println("1. Login sebagai pemesan");
                 System.out.println("2. Login sebagai petugas");
                 System.out.println("3. Keluar");
+                System.out.println("3. Keluar");
                 System.out.print("\nPilih: ");
                 pilihLogin = in.nextInt();
                 switch (pilihLogin) {
