@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author RVA
  */
-public class TiketKereta {
+public class TiketKeret {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
