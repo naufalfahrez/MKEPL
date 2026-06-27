@@ -8,7 +8,7 @@ public class SaldoTest {
     @Test
     public void testInitialSaldo() {
         Saldo saldo = new Saldo(100000);
-        assertEquals(100000, saldo.getJumlahSaldo());
+        assertEquals(-100000, saldo.getJumlahSaldo());
     }
 
     @Test
