@@ -27,7 +27,7 @@ public class TiketKereta {
            
         while (isAccessMainMenu){
             try {
-                System.out.println("-----------------------------MENU LOGIN---------------------------------");
+                System.out.println("-----------------------------MENU LOGIN-----------------------------------");
                 System.out.println("1. Login sebagai pemesan");
                 System.out.println("2. Login sebagai petugas");
                 System.out.println("3. Keluar");
