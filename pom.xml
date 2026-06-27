@@ -8,7 +8,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>21</maven.compiler.release>
-        <exec.mainClass>tiket.tiketkereta.TiketKereta</exec.mainClass>
+        <exec.mainClass>tiket.tiketkereta.TiketKeretaGAGAL</exec.mainClass>
     </properties>
     <dependencies>
         <dependency>
